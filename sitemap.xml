@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>None</loc>
+     <loc>https://know.alcr.uk/</loc>
+     <lastmod>2020-04-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://know.alcr.uk/how-to/create-simple-git-server/</loc>
      <lastmod>2020-04-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
