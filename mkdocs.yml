@@ -1,2 +1,6 @@
 site_name: know
+site_url: https://know.alcr.uk
+repo_url: https://github.com/alexcreasy/know.git
+repo_name: GitHub
 theme: readthedocs
+docs_dir: docs
